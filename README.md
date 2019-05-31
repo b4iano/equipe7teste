@@ -1,2 +1,1 @@
-# equipe7teste
-Only testes
+# Equipe7
